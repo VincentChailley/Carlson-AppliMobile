@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Carlson</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">AddActivity</string>
+    <color name="perso">#f2f2f2</color>
+    <string-array name="devise">
+        <item>€</item>
+        <item>$</item>
+    </string-array>
+</resources>
