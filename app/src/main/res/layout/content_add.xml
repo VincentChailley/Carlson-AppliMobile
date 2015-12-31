@@ -27,7 +27,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Vous pouvez indiquer un nom au compte, les participants, et choisir une devise par défault, puis cliquez sur continuer pour entrer les dépenses"
+                android:text="Entrer les infos voulues dans les cases correspondantes : un nom, une description, "
                 android:id="@+id/textView6"
                 android:textSize="20dp"
                 android:padding="10dp"
@@ -54,7 +54,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Contributeurs au comptes :"
+                android:text="Description :"
                 android:textSize="20dp"
                 android:padding="10dp"
                 android:background="@color/perso"
